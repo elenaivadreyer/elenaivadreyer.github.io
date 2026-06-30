@@ -1,0 +1,4 @@
+case,station_name,site_osm_id,site_overture_id,inference_start,damage_threshold,buildings_total,buildings_damaged,pct_damaged,buildings_damaged_strict,pct_damaged_strict
+case1_kharkiv5,Kharkiv-5 Power Plant,86492178,cddb4e30-9a6f-4799-9039-a825a62fa935,2023-02-10,3.0,89,10,11.2,0,0.0
+case2_trypilska,Trypilska Power Plant,2271440,8203e9d1-7b12-4b08-ad71-98d8442912ea,2024-04-11,3.9,143,11,7.7,1,0.7
+case6_kakhovka,Kakhovskaya HPP,7317657,7317657_manual,2023-06-06,3.9,23,5,21.7,3,13.0
